@@ -1,0 +1,36 @@
+body{background-image: url(7.jpg);
+    background-position: ;
+    background-size: cover;
+    }
+    div{text-align: center;
+        margin-top:50px;
+    }
+    h1{font-size: 80px;
+    color:cyan(0, 18, 97);
+    font-style: oblique;
+    }
+    input{font-size: 30px;
+        text-align: center;
+    border-radius: 15px;}
+    button{font-size: 30px;
+    border-radius: 10px;
+    color: blue;}
+    h2{
+    font-size: 70px;
+    color: fuchsia;
+    }
+    .ai{background-image: url(7.jpg);}
+    .ci{background-image: url(8.jpg);}
+    .gi{background-image: url(12.jpg);}
+    a{font-size: 25px;
+    color: blue;
+border-radius: 20px;
+text-align: center;}
+h3{
+    font-size: 35px;
+    color: blueviolet;
+}
+img{width: 40%;}
+p{color: darkblue;
+font-size: 25px;}
+.d{ color: chartreuse;}
