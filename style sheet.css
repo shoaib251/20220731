@@ -19,9 +19,15 @@ body{background-image: url(7.jpg);
     font-size: 70px;
     color: fuchsia;
     }
-    .ai{background-image: url(7.jpg);}
-    .ci{background-image: url(8.jpg);}
-    .gi{background-image: url(12.jpg);}
+    .ai{background-image: url(7.jpg); 
+    background-position:center ;
+background-size: cover;}
+    .ci{background-image: url(8.jpg);
+        background-position:center ;
+        background-size: cover;}
+    .gi{background-image: url(12.jpg);
+        background-position:center ;
+        background-size: cover;}
     a{font-size: 25px;
     color: blue;
 border-radius: 20px;
