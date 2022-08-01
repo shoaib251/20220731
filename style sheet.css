@@ -1,5 +1,5 @@
 body{background-image: url(7.jpg);
-    background-position: ;
+    background-position:center ;
     background-size: cover;
     }
     div{text-align: center;
@@ -21,13 +21,22 @@ body{background-image: url(7.jpg);
     }
     .ai{background-image: url(7.jpg); 
     background-position:center ;
-background-size: cover;}
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 100vh;}
     .ci{background-image: url(8.jpg);
         background-position:center ;
-        background-size: cover;}
+        background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;}
     .gi{background-image: url(12.jpg);
         background-position:center ;
-        background-size: cover;}
+        background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;}
     a{font-size: 25px;
     color: blue;
 border-radius: 20px;
